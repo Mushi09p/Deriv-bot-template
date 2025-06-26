@@ -1,0 +1,9 @@
+{
+    "api_token": "your_api_token_here",
+    "symbol": "R_100",
+    "amount": 10,
+    "contract_type": "CALL",
+    "currency": "USD",
+    "duration": 1,
+    "duration_unit": "m"
+}
